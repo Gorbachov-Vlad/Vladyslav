@@ -10,22 +10,22 @@
 ![](./Get_id.jpg)
  
 ## Метод POST
-![](./POST.jpg)
+![](./post.jpg)
 
 ## Метод PUT
-![](./PUT.jpg)
+![](./put.jpg)
 
 ### Перевірка за допомогою GET
 ![](./PUT_GET.jpg)
  
  ## Метод PATCH
-![](./PATCH.jpg)
+![](./patch.jpg)
  
 ### Перевірка за допомогою GET
 ![](./PATCH_GET.jpg)
 
   ## Метод DELETE
-![](./DELETE.jpg)
+![](./delete.jpg)
  
 ### Перевірка за допомогою GET
 ![](./DELETE_GET.jpg)
